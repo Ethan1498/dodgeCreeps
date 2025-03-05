@@ -1,2 +1,0 @@
-# dodgeCreeps
-Beginner Godot game
